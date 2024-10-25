@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jayeshvadje@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/65e884d2a79f310888d14302](https://www.overleaf.com/project/65e884d2a79f310888d14302)
+- 📄 Know about my experiences [[https://www.overleaf.com/project/65e884d2a79f310888d14302](https://www.overleaf.com/project/65e884d2a79f310888d14302](https://drive.google.com/file/d/1mGWC9K2-nGTrVwyx2fJbswkuwJD7Sz4x/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
